@@ -23,6 +23,12 @@
         "key": "agungPeler",
         "expirydate": "2-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "341e05862c81b5aa",
+        "key": "atmayani",
+        "expirydate": "2-12-2025",
+        "Allowoffline": false
     }
 
 ]
