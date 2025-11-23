@@ -1,15 +1,9 @@
 [
     {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
+        "device_id": "456b8ce6a27e7d37",
+        "key": "awan",
+        "expirydate": "2-12-2025",
         "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
     },
     {
         "device_id": "956f2a2aa1e5c596",
@@ -18,10 +12,5 @@
         "Allowoffline": false
     },
     {
-        "device_id": "456b8ce6a27e7d37",
-        "key": "awanvalevy2",
-        "expirydate": "2-12-2025",
-        "Allowoffline": false
-    }
 
 ]
