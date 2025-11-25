@@ -29,6 +29,12 @@
         "key": "atmayani",
         "expirydate": "2-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e9431be77628e527",
+        "key": "masfrii",
+        "expirydate": "2-12-2025",
+        "Allowoffline": false
     }
 
 ]
