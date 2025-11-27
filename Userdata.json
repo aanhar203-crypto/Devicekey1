@@ -41,6 +41,12 @@
         "key": "orangkantor",
         "expirydate": "2-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ec3d88a9d2b7dc44",
+        "key": "Ardisecurity",
+        "expirydate": "2-12-2025",
+        "Allowoffline": false
     }
 
 ]
