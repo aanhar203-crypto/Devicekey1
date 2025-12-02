@@ -53,6 +53,12 @@
         "key": "sleborr",
         "expirydate": "31-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "872a4799cbb93dd4",
+        "key": "teguhh",
+        "expirydate": "31-12-2025",
+        "Allowoffline": false
     }
 
 ]
