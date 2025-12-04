@@ -7,17 +7,11 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
+        "device_id": "956f2a2aa1e5c596",
+        "key": "agungPeler",
         "expirydate": "15-06-2025",
         "Allowoffline": false
     }, 
-    {
-        "device_id": "956f2a2aa1e5c596",
-        "key": "agungPeler",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
-    },
     {
         "device_id": "852cc1b6408c64fa",
         "key": "atmayani",
