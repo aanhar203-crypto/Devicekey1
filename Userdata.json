@@ -47,6 +47,12 @@
         "key": "teguhh",
         "expirydate": "21-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7754905e458de49c",
+        "key": "Heruscurity",
+        "expirydate": "21-12-2025",
+        "Allowoffline": false
     }
 
 ]
